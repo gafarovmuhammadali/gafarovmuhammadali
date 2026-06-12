@@ -4,7 +4,7 @@
 
 <br/>
 
-<table>
+<table width="100%">
   <tr>
     <td valign="top" width="200">
       <img src="./assets/images/profile-11.jpg" width="180" style="border-radius:10px" alt="profile" />
