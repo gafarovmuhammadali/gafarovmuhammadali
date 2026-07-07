@@ -104,6 +104,5 @@ When I'm not writing code, you'll find me:
 
 <img src="./assets/images/profile-1.jpg" width="100%" alt="profile-1" />
 
-<img src="https://coolreadme.xyz/api/typing-card?user=gafarovmuhammadali&theme=dark&accent=%2300FF88&lines=Web%20Developer%20%7C%20Open%20to%20Work%20%7C%20Based%20in%20Uzbekistan" width="100%" alt="Typing Headline" />
 
 <img src="https://typograssy.deno.dev/api?text=Hi%20there!%20%20Thanks%20for%20visiting%20my%20GitHub%20profile!&l0=161b22&l1=d9dedb&l2=7a7f7d&l3=6b6b6b&l4=737373&bg=0d1117&frame=ffffff&speed=300&comment=" width="100%" alt="Typograssy" />
